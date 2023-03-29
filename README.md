@@ -1,12 +1,7 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100"/>
-  
-  <h1>
-    Hey there, I'm Xiaoke!
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
-  </div>
-  
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hello%2C+I+am+Xiaoke)
+
+
   
 ### :technologist: About Me :
 I am a PhD Candidate at BUAA.
@@ -31,7 +26,7 @@ I am a PhD Candidate at BUAA.
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/nvidia.svg" title="CUDA" alt="CUDA" width="40" height="40"/>&nbsp;
 </div>
 
-  #### Github Stats ⚡
+### Github Stats ⚡
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
   <img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=hsiaoko&count_private=true&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&custom_title=Stats" height="192px"/>
@@ -49,7 +44,7 @@ I am a PhD Candidate at BUAA.
    <a href="http://github-readme-streak-stats.herokuapp.com">
      <img alt="streaks" src="http://github-readme-streak-stats.herokuapp.com?user=hsiaoko&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866">
   </a>
-  <img src="https://user-images.githubusercontent.com/82146140/205825785-6a82e3c6-2de9-418f-9d34-491393b33b72.gif" width="200px"/>
+  <img src="https://github.com/Aquarius-blake/Images/blob/main/Profile/gifs/programmer.gif" width="200px"/>
   </p>
  <br>
 
