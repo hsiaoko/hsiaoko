@@ -31,11 +31,27 @@ I am a PhD Candidate at BUAA.
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/nvidia.svg" title="CUDA" alt="CUDA" width="40" height="40"/>&nbsp;
 </div>
 
----
-
-<div align=center> 
-         <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=32&center=true&vCenter=true&width=600&height=50&lines=Fun+Facts:+;I+Love+Snowboarding;I+Love+House+Dance;I+Love+Capoeira;" alt="Headline" /> 
-     </div> 
+  #### Github Stats ⚡
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=hsiaoko&count_private=true&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&custom_title=Stats" height="192px"/>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img alt="VishalBeep's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsiaoko&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+  </a>
+  <br>
+  <b>Note:</b> Top languages is only a metric of the languages which is public not private!
+  <br>
+  <br>
+  <br>
+  
+  <p>
+   <a href="http://github-readme-streak-stats.herokuapp.com">
+     <img alt="streaks" src="http://github-readme-streak-stats.herokuapp.com?user=hsiaoko&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866">
+  </a>
+  <img src="https://user-images.githubusercontent.com/82146140/205825785-6a82e3c6-2de9-418f-9d34-491393b33b72.gif" width="200px"/>
+  </p>
+ <br>
 
 
   
