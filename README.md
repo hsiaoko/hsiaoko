@@ -3,7 +3,7 @@
 
 
   
-### :technologist: About Me :
+### About Me :
 I am a PhD Candidate at BUAA.
 
 - I’ve been actively studying on parallel computing & graph computing. Quickly learn new information, have good analytical skills, attentive to details, work well on my own. Read much specialized literature. I like to achieve perfection in everything I do.
