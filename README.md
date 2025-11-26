@@ -4,10 +4,7 @@
 
   
 ### About Me :
-I am a PhD Candidate at BUAA.
-
-- I’ve been actively studying on parallel computing & graph computing. Quickly learn new information, have good analytical skills, attentive to details, work well on my own. Read much specialized literature. I like to achieve perfection in everything I do.
-- Apart from being a developer, I enjoy most of my time being outdoors. In the winter, I am an avid skier. During the warmer months, I enjoy mountain biking, and free climbing.
+I am a research fellow at Shenzhen Institute of Computing Sciences (SICS). My work focuses on Graph Computing, GPU Accelerated Algorithms, High Performance Data Cleaning, and AI4DB. I welcome collaborations and discussions—feel free to reach out via email.
 
 ---
 
